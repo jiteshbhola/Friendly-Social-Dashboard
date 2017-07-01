@@ -1,0 +1,20 @@
+[0701/102900.118:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0701/102900.365:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0701/102900.365:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0701/102901.409:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0701/104332.309:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0701/104332.418:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0701/104332.449:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0701/105138.914:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0701/105139.039:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0701/105139.055:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0701/120719.034:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0701/120719.139:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0701/120719.155:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0701/122604.820:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0701/122604.950:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0701/122604.960:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0701/122605.905:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0701/123655.852:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0701/123656.013:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0701/123656.038:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
