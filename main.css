@@ -1,0 +1,108 @@
+.col-4 {
+  background-color: #DDD;
+  width: 33.33%;
+  border-right: 1px solid black;
+  padding: 4px;
+
+}
+
+#wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+#main{
+  overflow: auto;
+}
+#menu,
+#sidebar {
+  /*height: 3600px;*/
+  background-color: #e9ebee;
+  overflow: auto;
+}
+#header {
+    background-color: #4267b2;
+    color: white;
+    height: 42px;
+    width: 100%;
+    /*position: relative;*/
+}
+.white{
+	color: white !important;
+}
+#header ul .glyphicon {
+    font-size: 20px;
+    padding: 20px 20px 20px 0; 
+}
+/*.list-heading {
+    padding: 20px 15px 0 15px;
+
+}*/
+.form-control{
+	padding-left: 50px;
+}
+/*a{
+	color: black;
+	
+}*/
+.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 34px;
+}
+.nav-stacked .glyphicon{
+	/*color: black;*/
+	margin-right: 5px; 
+}
+.image-post{
+	margin-bottom: 15px;
+}
+#main {
+    overflow: auto;
+}
+#main::-webkit-scrollbar {
+    display: none;
+}
+.panel-title{
+	display: inline;
+}
+img{
+	margin-right: 10px;
+}
+.radii{
+	border-radius: 97px;
+	border: 1px solid black;
+}
+.panel-footer .glyphicon{
+	margin-right: 10px;
+	color: blue;
+}
+.comment{
+  margin: 0;
+}
+.chat-img{
+  display: inline;
+  border-radius: 50%;
+}
+#sidebar::-webkit-scrollbar {
+    display: none;
+  }
+.sidebar1{
+  padding: 5px 10px;
+}
+body{
+  background-color:#e9ebee ;
+}
+.sidebar2{
+  background-color:white;
+  /*overflow: auto;*/
+  
+}
+.chat-bg{
+background-color:#e9ebee
+}
+.l-c-s{
+  color: black;
+}
+.suggested-pages{
+  background-color: white;
+}
